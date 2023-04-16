@@ -1,0 +1,6 @@
+pandas
+Pillow
+pyperclip
+pywin32
+selenium==3.14.1
+webdriver-manager==3.5.2
